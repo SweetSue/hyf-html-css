@@ -343,7 +343,7 @@ padding-right: 24px;
 padding-right: 2.4rem;
 vertical-align: sub;
 }
-h3, p {
+h3 {
 font-size: 18px;
 font-size: 1.5rem;
 text-align: center;
@@ -357,12 +357,7 @@ width: 45%;
 margin: 2.5%
 }
 /* Float */
-#grid-floats {
 
-/*background-image: linear-gradient( to right, transparent 2.5%,#fff 4.5%, transparent 50%,#fff 97.5%, transparent 97.5% );
-/*background-image: linear-gradient( to left, transparent 2.5%,#fff 2.5%, transparent 50%,#fff 95.5%, transparent 97.5% );*/
-/*background-image: linear-gradient( to left, transparent 2.5%,#fff 4.5%, transparent 50%,#fff 97.5%, transparent 97.5% );*/
-}
 #grid-floats .grid-item {
 background-color: #fff;
 background-image: none;

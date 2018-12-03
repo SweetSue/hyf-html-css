@@ -56,7 +56,7 @@ img {
 header {
    /*background-color: rgba(51, 51, 51, 1);*/
    background-image: linear-gradient(to right,#373737 20%,transparent);
-   padding: 96px;
+   padding: 104px;
 }
 header::before {
    content: '\25A6 ';
